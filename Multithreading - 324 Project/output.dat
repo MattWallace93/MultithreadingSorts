@@ -1,0 +1,5 @@
+Quick sort took: 89094561 nanoseconds.
+Radix sort took: -1734665785815792 nanoseconds.
+Merge sort took: -1734665784707316 nanoseconds.
+Insert sort took: -1734665785023352 nanoseconds.
+Bubble sort took: -1734665784340391 nanoseconds.
